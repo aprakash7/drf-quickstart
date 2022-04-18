@@ -45,4 +45,4 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-### Head over to ```http://127.0.0.1:8000/users/``` and test the api! :)
+### Head over to ```http://127.0.0.1:8000/users/``` and test the API! :)
